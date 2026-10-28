@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1140 220" role="img" aria-labelledby="title desc">
+  <title id="title">Deep Manera</title>
+  <desc id="desc">A navy and champagne-gold DM monogram beside the Deep Manera wordmark and the line Websites, business systems, custom software.</desc>
+  <g transform="translate(0 34) scale(1.25)">
+    <path d="M15 14h47a47 47 0 1 1 0 92H31l18-18h13a29 29 0 1 0 0-58H33Z" fill="#0B1F3A"/>
+    <path d="M9 29h17v77H9z" fill="#C6A15B"/>
+    <path d="M32 55 58 77l25-22v35H67V80l-9 8-10-8v10H32Z" fill="#FFFCF6"/>
+  </g>
+  <text x="178" y="128" fill="#0B1F3A" font-family="Georgia, 'Times New Roman', serif" font-size="112" font-weight="700" letter-spacing="-5">DeepManera</text>
+  <text x="186" y="177" fill="#80602C" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600" letter-spacing="7">WEBSITES　/　BUSINESS SYSTEMS　/　CUSTOM SOFTWARE</text>
+</svg>
